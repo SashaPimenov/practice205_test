@@ -30,7 +30,7 @@ jobs:
         with:
           context: .
           push: true
-          tags: practice205_test:latest
+          tags: sashapimenov12:latest
 
       - name: Set up Node.js
         uses: actions/setup-node@v4
